@@ -1,0 +1,202 @@
+
+Foxy Girl.png
+size: 275,1383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 172, 547
+  size: 95, 149
+  orig: 95, 149
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 2, 342
+  size: 91, 143
+  orig: 91, 143
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 147, 296
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+body-back
+  rotate: true
+  xy: 2, 204
+  size: 136, 138
+  orig: 149, 152
+  offset: 10, 9
+  index: -1
+ear_l_back
+  rotate: true
+  xy: 164, 384
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: true
+  xy: 164, 465
+  size: 80, 109
+  orig: 80, 109
+  offset: 0, 0
+  index: -1
+ear_r_back
+  rotate: true
+  xy: 2, 38
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+eyeball_l
+  rotate: false
+  xy: 223, 698
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+eyeball_r
+  rotate: false
+  xy: 221, 55
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: true
+  xy: 118, 148
+  size: 54, 19
+  orig: 54, 19
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: true
+  xy: 118, 91
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+eyelid_bottom_r
+  rotate: true
+  xy: 177, 9
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+eyelid_top_l
+  rotate: false
+  xy: 136, 62
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+eyelid_top_r
+  rotate: false
+  xy: 136, 100
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 2, 577
+  size: 144, 168
+  orig: 144, 168
+  offset: 0, 0
+  index: -1
+hair_top
+  rotate: true
+  xy: 2, 723
+  size: 176, 219
+  orig: 177, 220
+  offset: 1, 1
+  index: -1
+hand-holding
+  rotate: true
+  xy: 216, 2
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 901
+  size: 259, 210
+  orig: 259, 210
+  offset: 0, 0
+  index: -1
+head-back
+  rotate: false
+  xy: 2, 1113
+  size: 271, 268
+  orig: 285, 269
+  offset: 7, 0
+  index: -1
+jacket_L
+  rotate: true
+  xy: 2, 119
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+jacket_R
+  rotate: true
+  xy: 142, 133
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 2, 435
+  size: 140, 160
+  orig: 140, 160
+  offset: 0, 0
+  index: -1
+leg_r_back
+  rotate: true
+  xy: 142, 226
+  size: 68, 129
+  orig: 68, 129
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 223, 875
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 172, 700
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+pupil_l
+  rotate: true
+  xy: 112, 29
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+pupil_r
+  rotate: false
+  xy: 223, 773
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 223, 841
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1

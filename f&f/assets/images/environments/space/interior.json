@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "interior.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1010,
+				"h": 1463
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Window view",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 545
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 545
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 545
+					}
+				},
+				{
+					"filename": "Window 1 Frame",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 508,
+						"h": 390
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 508,
+						"h": 390
+					},
+					"frame": {
+						"x": 0,
+						"y": 545,
+						"w": 508,
+						"h": 390
+					}
+				},
+				{
+					"filename": "Window 2 Frame",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 432,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 432,
+						"h": 291
+					},
+					"frame": {
+						"x": 508,
+						"y": 545,
+						"w": 432,
+						"h": 291
+					}
+				},
+				{
+					"filename": "Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 681
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 681
+					},
+					"frame": {
+						"x": 940,
+						"y": 545,
+						"w": 70,
+						"h": 681
+					}
+				},
+				{
+					"filename": "Window 2 Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 386,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 386,
+						"h": 235
+					},
+					"frame": {
+						"x": 508,
+						"y": 836,
+						"w": 386,
+						"h": 235
+					}
+				},
+				{
+					"filename": "vent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 75
+					},
+					"frame": {
+						"x": 0,
+						"y": 935,
+						"w": 340,
+						"h": 75
+					}
+				},
+				{
+					"filename": "Fan Face",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 136
+					},
+					"frame": {
+						"x": 340,
+						"y": 935,
+						"w": 152,
+						"h": 136
+					}
+				},
+				{
+					"filename": "Window 1 Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 336,
+						"h": 383
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 336,
+						"h": 383
+					},
+					"frame": {
+						"x": 0,
+						"y": 1010,
+						"w": 336,
+						"h": 383
+					}
+				},
+				{
+					"filename": "Tiles 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 335,
+						"h": 259
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 335,
+						"h": 259
+					},
+					"frame": {
+						"x": 336,
+						"y": 1071,
+						"w": 335,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Fan Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 203
+					},
+					"frame": {
+						"x": 671,
+						"y": 1071,
+						"w": 239,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Tile3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 284,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 284,
+						"h": 189
+					},
+					"frame": {
+						"x": 671,
+						"y": 1274,
+						"w": 284,
+						"h": 189
+					}
+				},
+				{
+					"filename": "Tile 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 179,
+						"h": 110
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 179,
+						"h": 110
+					},
+					"frame": {
+						"x": 336,
+						"y": 1330,
+						"w": 179,
+						"h": 110
+					}
+				},
+				{
+					"filename": "Fan",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 133
+					},
+					"frame": {
+						"x": 515,
+						"y": 1330,
+						"w": 133,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b01e04c4c5ec8f798a8277410a0ea162:375e5eee0c3c147e0ba8168beb9185be:fc6e07278fdae804f0991b4d73d70a67$"
+	}
+}

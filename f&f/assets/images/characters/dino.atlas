@@ -1,0 +1,223 @@
+
+dino.png
+size: 285,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 214, 717
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 170, 460
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 150
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+body-back
+  rotate: true
+  xy: 170, 531
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+eyeball_l
+  rotate: false
+  xy: 249, 970
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+eyeball_r
+  rotate: false
+  xy: 214, 674
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: true
+  xy: 249, 881
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: true
+  xy: 249, 924
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+eyelid_bottom_l
+  rotate: true
+  xy: 260, 94
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+eyelid_bottom_r
+  rotate: false
+  xy: 214, 651
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+eyelid_top_l
+  rotate: true
+  xy: 260, 60
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+eyelid_top_r
+  rotate: true
+  xy: 249, 837
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+haed_mask
+  rotate: false
+  xy: 2, 642
+  size: 210, 176
+  orig: 210, 176
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 484
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+head-back
+  rotate: false
+  xy: 2, 820
+  size: 245, 191
+  orig: 245, 191
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 150, 367
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+leg_r_back
+  rotate: true
+  xy: 150, 299
+  size: 66, 128
+  orig: 66, 128
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 263, 144
+  size: 40, 20
+  orig: 43, 23
+  offset: 1, 1
+  index: -1
+mouth_c
+  rotate: false
+  xy: 117, 4
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 150, 460
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+pupil_l
+  rotate: false
+  xy: 258, 687
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+pupil_r
+  rotate: false
+  xy: 258, 657
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+run-effect
+  rotate: false
+  xy: 2, 364
+  size: 146, 118
+  orig: 168, 139
+  offset: 8, 15
+  index: -1
+tail
+  rotate: false
+  xy: 2, 267
+  size: 140, 95
+  orig: 140, 95
+  offset: 0, 0
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00000
+  rotate: true
+  xy: 59, 4
+  size: 144, 56
+  orig: 167, 167
+  offset: 9, 79
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00001
+  rotate: false
+  xy: 117, 128
+  size: 144, 56
+  orig: 167, 167
+  offset: 9, 79
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00002
+  rotate: false
+  xy: 117, 73
+  size: 141, 53
+  orig: 167, 167
+  offset: 6, 80
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00003
+  rotate: false
+  xy: 117, 19
+  size: 139, 52
+  orig: 167, 167
+  offset: 5, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00004
+  rotate: false
+  xy: 144, 244
+  size: 139, 53
+  orig: 167, 167
+  offset: 4, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00005
+  rotate: true
+  xy: 2, 2
+  size: 146, 55
+  orig: 167, 167
+  offset: 3, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00006
+  rotate: false
+  xy: 116, 186
+  size: 149, 56
+  orig: 167, 167
+  offset: 3, 79
+  index: -1

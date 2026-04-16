@@ -1,0 +1,199 @@
+{
+	"textures": [
+		{
+			"image": "screenborders-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1924,
+				"h": 1626
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "border_castle_exterior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "border_castle_interior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 963,
+						"y": 1,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "border_egypt_exterior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 543,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "border_egypt_interior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 543,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "border_jungle_exterior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 963,
+						"y": 543,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "border_jungle_interior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 1085,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "border_space_exterior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 963,
+						"y": 1085,
+						"w": 960,
+						"h": 540
+					}
+				}
+			]
+		},
+		{
+			"image": "screenborders-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 962,
+				"h": 542
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "border_space_interior",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 960,
+						"h": 540
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:36661afea6b098addf9ec448f8106f2c:ca9663b5b1e8c0b62c1a310dc32b983a:7d20a1ae42f3f4db3fa8957a4d39f095$"
+	}
+}

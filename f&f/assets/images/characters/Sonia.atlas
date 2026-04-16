@@ -1,0 +1,279 @@
+
+Sonia.png
+size: 1029,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 2, 3
+  size: 93, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 293, 5
+  size: 92, 145
+  orig: 92, 145
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 150, 3
+  size: 93, 141
+  orig: 93, 141
+  offset: 0, 0
+  index: -1
+body-back
+  rotate: true
+  xy: 669, 65
+  size: 84, 137
+  orig: 84, 137
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: true
+  xy: 874, 356
+  size: 156, 149
+  orig: 156, 149
+  offset: 0, 0
+  index: -1
+ear_l_back
+  rotate: false
+  xy: 356, 157
+  size: 163, 174
+  orig: 163, 174
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 521, 190
+  size: 174, 165
+  orig: 174, 165
+  offset: 0, 0
+  index: -1
+ear_r_back
+  rotate: true
+  xy: 697, 349
+  size: 163, 175
+  orig: 163, 175
+  offset: 0, 0
+  index: -1
+eyeball_l
+  rotate: false
+  xy: 879, 12
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+eyeball_r
+  rotate: false
+  xy: 440, 15
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: false
+  xy: 294, 309
+  size: 53, 22
+  orig: 53, 22
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: false
+  xy: 969, 31
+  size: 56, 13
+  orig: 56, 13
+  offset: 0, 0
+  index: -1
+eyelid_bottom_l
+  rotate: true
+  xy: 997, 169
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+eyelid_bottom_r
+  rotate: true
+  xy: 932, 31
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+eyelid_top_l
+  rotate: false
+  xy: 969, 46
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+eyelid_top_r
+  rotate: true
+  xy: 952, 148
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 500, 357
+  size: 195, 155
+  orig: 195, 155
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 309
+  size: 290, 203
+  orig: 290, 203
+  offset: 0, 0
+  index: -1
+hand-holding
+  rotate: true
+  xy: 952, 95
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 98
+  size: 231, 209
+  orig: 231, 209
+  offset: 0, 0
+  index: -1
+head-back
+  rotate: false
+  xy: 294, 333
+  size: 204, 179
+  orig: 210, 179
+  offset: 6, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 697, 208
+  size: 139, 160
+  orig: 139, 160
+  offset: 0, 0
+  index: -1
+leg_r_back
+  rotate: false
+  xy: 808, 19
+  size: 69, 130
+  orig: 69, 130
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 974, 16
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 932, 9
+  size: 40, 20
+  orig: 43, 23
+  offset: 1, 1
+  index: -1
+mouth_c
+  rotate: true
+  xy: 669, 152
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 440, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+pupil_l
+  rotate: true
+  xy: 997, 150
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+pupil_r
+  rotate: false
+  xy: 1008, 120
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+run-effect
+  rotate: false
+  xy: 521, 70
+  size: 146, 118
+  orig: 168, 139
+  offset: 8, 15
+  index: -1
+scarf
+  rotate: true
+  xy: 879, 93
+  size: 108, 71
+  orig: 108, 72
+  offset: 0, 1
+  index: -1
+tail
+  rotate: true
+  xy: 235, 107
+  size: 200, 119
+  orig: 200, 119
+  offset: 0, 0
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00000
+  rotate: true
+  xy: 859, 203
+  size: 144, 56
+  orig: 167, 167
+  offset: 9, 79
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00001
+  rotate: true
+  xy: 917, 210
+  size: 144, 56
+  orig: 167, 167
+  offset: 9, 79
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00002
+  rotate: false
+  xy: 510, 15
+  size: 141, 53
+  orig: 167, 167
+  offset: 6, 80
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00003
+  rotate: true
+  xy: 975, 215
+  size: 139, 52
+  orig: 167, 167
+  offset: 5, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00004
+  rotate: false
+  xy: 653, 10
+  size: 139, 53
+  orig: 167, 167
+  offset: 4, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00005
+  rotate: false
+  xy: 697, 151
+  size: 146, 55
+  orig: 167, 167
+  offset: 3, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00006
+  rotate: false
+  xy: 356, 99
+  size: 149, 56
+  orig: 167, 167
+  offset: 3, 79
+  index: -1

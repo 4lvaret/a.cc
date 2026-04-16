@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "players_static.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 122,
+				"h": 1963
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Black Fox",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Dark Princess",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 152,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Fio",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 303,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Fiona",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 454,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Foxy Girl",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 605,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Hoodie",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 756,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Sonia",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 907,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Space Sam",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1058,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Unicorn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1209,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "bear",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1360,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "dino",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1511,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "salamander",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1662,
+						"w": 120,
+						"h": 149
+					}
+				},
+				{
+					"filename": "turtle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 149
+					},
+					"frame": {
+						"x": 1,
+						"y": 1813,
+						"w": 120,
+						"h": 149
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:00e9c59471f206af3da349754f6abba7:f3128118af205ec46ec7fc79ef302b9d:12c917c49157f5a9552d29832ca973b0$"
+	}
+}

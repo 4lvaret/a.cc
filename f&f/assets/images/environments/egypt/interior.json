@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "interior.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 435,
+				"h": 2046
+			},
+			"scale": 0.25,
+			"frames": [
+				{
+					"filename": "Pillar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 681
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 681
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 232,
+						"h": 681
+					}
+				},
+				{
+					"filename": "Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 681
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 681
+					},
+					"frame": {
+						"x": 1,
+						"y": 684,
+						"w": 100,
+						"h": 681
+					}
+				},
+				{
+					"filename": "Patch1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 364
+					},
+					"frame": {
+						"x": 235,
+						"y": 1,
+						"w": 199,
+						"h": 364
+					}
+				},
+				{
+					"filename": "tourch",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 199,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 199,
+						"h": 364
+					},
+					"frame": {
+						"x": 235,
+						"y": 367,
+						"w": 199,
+						"h": 364
+					}
+				},
+				{
+					"filename": "Coffin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 340
+					},
+					"frame": {
+						"x": 103,
+						"y": 733,
+						"w": 285,
+						"h": 340
+					}
+				},
+				{
+					"filename": "HeadSt",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 340
+					},
+					"frame": {
+						"x": 103,
+						"y": 1075,
+						"w": 285,
+						"h": 340
+					}
+				},
+				{
+					"filename": "Patch 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 431,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 431,
+						"h": 264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1417,
+						"w": 431,
+						"h": 264
+					}
+				},
+				{
+					"filename": "JAr",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 302
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 302
+					},
+					"frame": {
+						"x": 1,
+						"y": 1683,
+						"w": 285,
+						"h": 302
+					}
+				},
+				{
+					"filename": "PAtch3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 409,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 409,
+						"h": 58
+					},
+					"frame": {
+						"x": 1,
+						"y": 1987,
+						"w": 409,
+						"h": 58
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d6dfefd25bd213b56bc7da57c9175e9c:dcf245e1cbcf8fece335f592ac215e65:fc6e07278fdae804f0991b4d73d70a67$"
+	}
+}

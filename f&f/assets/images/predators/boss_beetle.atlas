@@ -1,0 +1,97 @@
+
+boss_beetle.png
+size: 968,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_blue
+  rotate: false
+  xy: 2, 118
+  size: 239, 164
+  orig: 239, 164
+  offset: 0, 0
+  index: -1
+body_green
+  rotate: false
+  xy: 243, 118
+  size: 239, 164
+  orig: 239, 164
+  offset: 0, 0
+  index: -1
+body_red
+  rotate: false
+  xy: 484, 118
+  size: 239, 164
+  orig: 239, 164
+  offset: 0, 0
+  index: -1
+body_violet
+  rotate: false
+  xy: 725, 118
+  size: 239, 164
+  orig: 239, 164
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 806, 10
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 890, 70
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 806, 51
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 855, 51
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+mouth_blue
+  rotate: false
+  xy: 2, 2
+  size: 266, 114
+  orig: 266, 114
+  offset: 0, 0
+  index: -1
+mouth_red
+  rotate: false
+  xy: 2, 2
+  size: 266, 114
+  orig: 266, 114
+  offset: 0, 0
+  index: -1
+mouth_green
+  rotate: false
+  xy: 270, 2
+  size: 266, 114
+  orig: 266, 114
+  offset: 0, 0
+  index: -1
+mouth_violet
+  rotate: false
+  xy: 538, 2
+  size: 266, 114
+  orig: 266, 114
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 932, 70
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1

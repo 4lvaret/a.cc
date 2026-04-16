@@ -1,0 +1,195 @@
+
+boss_spaceship.png
+size: 449,2014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/back_dark
+  rotate: false
+  xy: 2, 1854
+  size: 411, 158
+  orig: 411, 158
+  offset: 0, 0
+  index: -1
+images/back_green
+  rotate: false
+  xy: 2, 1695
+  size: 409, 157
+  orig: 409, 157
+  offset: 0, 0
+  index: -1
+images/back_violet
+  rotate: false
+  xy: 2, 1378
+  size: 408, 156
+  orig: 408, 156
+  offset: 0, 0
+  index: -1
+images/back_white
+  rotate: false
+  xy: 2, 1536
+  size: 408, 157
+  orig: 408, 157
+  offset: 0, 0
+  index: -1
+images/bottom_part_dark
+  rotate: false
+  xy: 315, 130
+  size: 132, 41
+  orig: 132, 41
+  offset: 0, 0
+  index: -1
+images/bottom_part_green
+  rotate: false
+  xy: 315, 87
+  size: 131, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+images/bottom_part_violet
+  rotate: false
+  xy: 315, 44
+  size: 131, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+images/bottom_part_white
+  rotate: false
+  xy: 315, 2
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+images/cockpit_dark
+  rotate: false
+  xy: 2, 1200
+  size: 274, 176
+  orig: 274, 176
+  offset: 0, 0
+  index: -1
+images/cockpit_green
+  rotate: false
+  xy: 2, 1022
+  size: 274, 176
+  orig: 274, 176
+  offset: 0, 0
+  index: -1
+images/cockpit_violet
+  rotate: false
+  xy: 2, 844
+  size: 274, 176
+  orig: 274, 176
+  offset: 0, 0
+  index: -1
+images/cockpit_white
+  rotate: false
+  xy: 2, 666
+  size: 274, 176
+  orig: 274, 176
+  offset: 0, 0
+  index: -1
+images/engine_L_dark
+  rotate: true
+  xy: 278, 1011
+  size: 182, 147
+  orig: 182, 147
+  offset: 0, 0
+  index: -1
+images/engine_L_green
+  rotate: true
+  xy: 278, 830
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+images/engine_L_violet
+  rotate: true
+  xy: 278, 645
+  size: 183, 146
+  orig: 183, 146
+  offset: 0, 0
+  index: -1
+images/engine_L_white
+  rotate: true
+  xy: 269, 461
+  size: 182, 146
+  orig: 182, 146
+  offset: 0, 0
+  index: -1
+images/engine_R_dark
+  rotate: true
+  xy: 278, 1195
+  size: 181, 149
+  orig: 181, 149
+  offset: 0, 0
+  index: -1
+images/engine_R_green
+  rotate: false
+  xy: 2, 6
+  size: 181, 145
+  orig: 181, 145
+  offset: 0, 0
+  index: -1
+images/engine_R_violet
+  rotate: false
+  xy: 2, 153
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1
+images/engine_R_white
+  rotate: true
+  xy: 269, 276
+  size: 183, 145
+  orig: 183, 145
+  offset: 0, 0
+  index: -1
+images/vfx/muzzle flash_00000
+  rotate: false
+  xy: 185, 19
+  size: 128, 132
+  orig: 167, 167
+  offset: 1, 29
+  index: -1
+images/vfx/muzzle flash_00001
+  rotate: false
+  xy: 315, 173
+  size: 132, 101
+  orig: 167, 167
+  offset: 3, 25
+  index: -1
+images/vfx/muzzle flash_00002
+  rotate: false
+  xy: 186, 153
+  size: 81, 145
+  orig: 167, 167
+  offset: 2, 11
+  index: -1
+images/weapon_dark
+  rotate: false
+  xy: 2, 572
+  size: 265, 92
+  orig: 265, 92
+  offset: 0, 0
+  index: -1
+images/weapon_green
+  rotate: false
+  xy: 2, 478
+  size: 265, 92
+  orig: 265, 92
+  offset: 0, 0
+  index: -1
+images/weapon_violet
+  rotate: false
+  xy: 2, 385
+  size: 265, 91
+  orig: 265, 91
+  offset: 0, 0
+  index: -1
+images/weapon_white
+  rotate: false
+  xy: 2, 300
+  size: 265, 83
+  orig: 265, 83
+  offset: 0, 0
+  index: -1

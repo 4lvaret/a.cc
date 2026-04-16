@@ -1,0 +1,668 @@
+{
+"skeleton": { "hash": "WKWm6q95jDV206aTKvoAPuuXE3o", "spine": "3.8.97", "x": -677.08, "y": -1.68, "width": 1538.36, "height": 552.5 },
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "images/back_green",
+		"parent": "root",
+		"length": 488.71,
+		"rotation": 179.82,
+		"x": -1.1,
+		"y": 188.77,
+		"scaleX": 1.2,
+		"scaleY": 1.2
+	},
+	{ "name": "images/cockpit_green", "parent": "images/back_green", "length": 292.71, "rotation": -178.32, "x": -4.48, "y": -38.31 },
+	{ "name": "images/weapon_green", "parent": "images/cockpit_green", "length": 179.25, "rotation": -1.99, "x": 293.9, "y": -130.3 },
+	{ "name": "images/engine_R_green", "parent": "images/back_green", "length": 129.65, "rotation": -125.2, "x": 420.03, "y": -82.94 },
+	{ "name": "images/engine_L_green", "parent": "images/back_green", "length": 122.45, "rotation": -121.52, "x": 314.35, "y": -92.47 },
+	{ "name": "images/bottom_part_green", "parent": "images/back_green", "length": 101.12, "rotation": -0.69, "x": 365.9, "y": 80.81 },
+	{ "name": "vfx", "parent": "images/back_green", "rotation": -174.11, "x": -730.36, "y": 60.37 }
+],
+"slots": [
+	{ "name": "images/engine_L_green", "bone": "images/engine_L_green", "attachment": "images/engine_L_green" },
+	{ "name": "images/weapon_green", "bone": "images/weapon_green", "attachment": "images/weapon_green" },
+	{ "name": "images/back_green", "bone": "images/back_green", "attachment": "images/back_green" },
+	{ "name": "images/bottom_part_green", "bone": "images/bottom_part_green", "attachment": "images/bottom_part_green" },
+	{ "name": "images/cockpit_green", "bone": "images/cockpit_green", "attachment": "images/cockpit_green" },
+	{ "name": "images/engine_R_green", "bone": "images/engine_R_green", "attachment": "images/engine_R_green" },
+	{ "name": "vfx", "bone": "vfx" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"vfx": {
+				"images/vfx/muzzle flash_00000": { "x": 105.45, "y": -28.83, "scaleX": -1, "rotation": 174.11, "width": 334, "height": 334 },
+				"images/vfx/muzzle flash_00001": { "x": 105.44, "y": -28.83, "rotation": -5.71, "width": 334, "height": 334 },
+				"images/vfx/muzzle flash_00002": { "x": 105.45, "y": -28.83, "rotation": -5.71, "width": 334, "height": 334 }
+			}
+		}
+	},
+	{
+		"name": "Dark",
+		"attachments": {
+			"images/back_green": {
+				"images/back_green": { "name": "images/back_dark", "x": 155.92, "y": -30.06, "rotation": -179.82, "width": 821, "height": 315 }
+			},
+			"images/bottom_part_green": {
+				"images/bottom_part_green": { "name": "images/bottom_part_dark", "x": -3.27, "y": -3.66, "rotation": -179.13, "width": 263, "height": 81 }
+			},
+			"images/cockpit_green": {
+				"images/cockpit_green": { "name": "images/cockpit_dark", "x": 243.23, "y": 26.24, "rotation": -1.5, "width": 548, "height": 352 }
+			},
+			"images/engine_L_green": {
+				"images/engine_L_green": { "name": "images/engine_L_dark", "x": 76.43, "y": -5.26, "rotation": -58.3, "width": 363, "height": 293 }
+			},
+			"images/engine_R_green": {
+				"images/engine_R_green": { "name": "images/engine_R_dark", "x": 70.25, "y": -8.48, "rotation": -54.62, "width": 361, "height": 297 }
+			},
+			"images/weapon_green": {
+				"images/weapon_green": { "name": "images/weapon_dark", "x": 152.27, "y": 9.35, "rotation": 0.49, "width": 529, "height": 183 }
+			}
+		}
+	},
+	{
+		"name": "Green",
+		"attachments": {
+			"images/back_green": {
+				"images/back_green": { "x": 155.92, "y": -30.06, "rotation": -179.82, "width": 817, "height": 313 }
+			},
+			"images/bottom_part_green": {
+				"images/bottom_part_green": { "x": -3.27, "y": -3.66, "rotation": -179.13, "width": 262, "height": 81 }
+			},
+			"images/cockpit_green": {
+				"images/cockpit_green": { "x": 239.76, "y": 26.33, "rotation": -1.5, "width": 548, "height": 352 }
+			},
+			"images/engine_L_green": {
+				"images/engine_L_green": { "x": 76.43, "y": -5.26, "rotation": -58.3, "width": 358, "height": 294 }
+			},
+			"images/engine_R_green": {
+				"images/engine_R_green": { "x": 70.25, "y": -8.48, "rotation": -54.62, "width": 361, "height": 289 }
+			},
+			"images/weapon_green": {
+				"images/weapon_green": { "x": 152.27, "y": 9.35, "rotation": 0.49, "width": 530, "height": 183 }
+			}
+		}
+	},
+	{
+		"name": "Violet",
+		"attachments": {
+			"images/back_green": {
+				"images/back_green": { "name": "images/back_violet", "x": 155.92, "y": -30.06, "rotation": -179.82, "width": 816, "height": 312 }
+			},
+			"images/bottom_part_green": {
+				"images/bottom_part_green": { "name": "images/bottom_part_violet", "x": -3.27, "y": -3.66, "rotation": -179.13, "width": 261, "height": 81 }
+			},
+			"images/cockpit_green": {
+				"images/cockpit_green": { "name": "images/cockpit_violet", "x": 246.69, "y": 26.15, "rotation": -1.5, "width": 548, "height": 352 }
+			},
+			"images/engine_L_green": {
+				"images/engine_L_green": { "name": "images/engine_L_violet", "x": 76.43, "y": -5.26, "rotation": -58.3, "width": 365, "height": 291 }
+			},
+			"images/engine_R_green": {
+				"images/engine_R_green": { "name": "images/engine_R_violet", "x": 70.25, "y": -8.48, "rotation": -54.62, "width": 364, "height": 290 }
+			},
+			"images/weapon_green": {
+				"images/weapon_green": { "name": "images/weapon_violet", "x": 152.27, "y": 9.35, "rotation": 0.49, "width": 529, "height": 182 }
+			}
+		}
+	},
+	{
+		"name": "White",
+		"attachments": {
+			"images/back_green": {
+				"images/back_green": { "name": "images/back_white", "x": 155.92, "y": -30.06, "rotation": -179.82, "width": 815, "height": 313 }
+			},
+			"images/bottom_part_green": {
+				"images/bottom_part_green": { "name": "images/bottom_part_white", "x": -3.27, "y": -3.66, "rotation": -179.13, "width": 261, "height": 80 }
+			},
+			"images/cockpit_green": {
+				"images/cockpit_green": { "name": "images/cockpit_white", "x": 235.43, "y": 66.45, "rotation": -1.5, "width": 548, "height": 352 }
+			},
+			"images/engine_L_green": {
+				"images/engine_L_green": { "name": "images/engine_L_white", "x": 76.43, "y": -5.26, "rotation": -58.3, "width": 364, "height": 292 }
+			},
+			"images/engine_R_green": {
+				"images/engine_R_green": { "name": "images/engine_R_white", "x": 70.25, "y": -8.48, "rotation": -54.62, "width": 365, "height": 290 }
+			},
+			"images/weapon_green": {
+				"images/weapon_green": { "name": "images/weapon_white", "x": 152.27, "y": 9.35, "rotation": 0.49, "width": 529, "height": 165 }
+			}
+		}
+	}
+],
+"animations": {
+	"attack": {
+		"slots": {
+			"vfx": {
+				"attachment": [
+					{ "name": "images/vfx/muzzle flash_00000" },
+					{ "time": 0.0667, "name": "images/vfx/muzzle flash_00001" },
+					{ "time": 0.1333, "name": "images/vfx/muzzle flash_00002" },
+					{ "time": 0.2, "name": "images/vfx/muzzle flash_00000" }
+				]
+			}
+		},
+		"bones": {
+			"images/cockpit_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.1, "x": 0.95, "y": -6.72, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				]
+			},
+			"images/engine_R_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"translate": [
+					{ "curve": 0.276, "c3": 0.621, "c4": 0.4 },
+					{
+						"time": 0.1,
+						"x": 7.82,
+						"y": 1.1,
+						"curve": 0.314,
+						"c2": 0.27,
+						"c3": 0.657,
+						"c4": 0.64
+					},
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				]
+			},
+			"images/back_green": {
+				"rotate": [
+					{ "angle": -7.84, "curve": "stepped" },
+					{ "time": 0.2, "angle": -7.84 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.1, "x": -3.81, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				]
+			},
+			"images/engine_L_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.1, "x": 10.02, "y": 0.08, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				]
+			},
+			"images/weapon_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.1, "x": -5.02, "y": -0.56, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.1, "x": 0.98, "y": 1.02, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2 }
+				]
+			},
+			"images/bottom_part_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.1, "x": -4.51, "y": -0.64, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.2 }
+				]
+			}
+		}
+	},
+	"death": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				]
+			},
+			"images/back_green": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -2.41 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": 19.31, "y": 246.23 },
+					{ "time": 0.3333, "x": 14.48, "y": -86.9 }
+				],
+				"scale": [
+					{ "time": 0.1667 },
+					{ "time": 0.3333, "x": 1.08, "y": 0.92 },
+					{ "time": 0.4667 }
+				]
+			},
+			"images/cockpit_green": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				]
+			},
+			"images/weapon_green": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -36.92 },
+					{ "time": 0.3333, "angle": -121.34 },
+					{ "time": 0.5333, "angle": 167.62 },
+					{ "time": 0.7, "angle": -163.53 },
+					{ "time": 0.9, "angle": 178.09 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": 114.37, "y": 95.97 },
+					{ "time": 0.3333, "x": 160.02, "y": 415.38 },
+					{ "time": 0.5333, "x": 345.86, "y": 114.11 },
+					{ "time": 0.7, "x": 343, "y": 140.11 },
+					{ "time": 0.9, "x": 375.86, "y": 49.62 }
+				],
+				"scale": [
+					{ "time": 0.5333, "x": 1.1, "y": 0.9 },
+					{ "time": 0.7, "x": 0.9, "y": 1.1 },
+					{ "time": 0.9 }
+				]
+			},
+			"images/engine_R_green": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 100.69 },
+					{ "time": 0.3333, "angle": 163.45 },
+					{ "time": 0.6, "angle": 80.91 },
+					{ "time": 0.8, "angle": 50.99 }
+				],
+				"translate": [
+					{ "x": 1.06, "y": -7.49 },
+					{ "time": 0.1667, "x": 95.96, "y": -75.7 },
+					{ "time": 0.3333, "x": 104.53, "y": -372.54 },
+					{ "time": 0.5, "x": 71.66, "y": 34.36 },
+					{ "time": 0.6, "x": 77.32, "y": -91.04 },
+					{ "time": 0.8, "x": 64.24, "y": 145.18 }
+				],
+				"scale": [
+					{ "time": 0.3333 },
+					{ "time": 0.5, "x": 1.1, "y": 0.9 },
+					{ "time": 0.6, "x": 0.9, "y": 1.1, "curve": "stepped" },
+					{ "time": 0.7333, "x": 0.9, "y": 1.1 },
+					{ "time": 0.8 }
+				]
+			},
+			"images/engine_L_green": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 16.46 },
+					{ "time": 0.3333, "angle": -39.17 },
+					{ "time": 0.6, "angle": -92.78 },
+					{ "time": 0.7, "angle": -161.06 },
+					{ "time": 1, "angle": 33.83 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": -91.13, "y": -122.52 },
+					{ "time": 0.3333, "x": -228.81, "y": -498.45 },
+					{ "time": 0.6, "x": -442.31, "y": -51.38 },
+					{ "time": 0.7, "x": -583.32, "y": -193.07 },
+					{ "time": 1, "x": -633.97, "y": 126.03 }
+				],
+				"scale": [
+					{ "time": 0.6, "x": 1.1, "y": 0.9 },
+					{ "time": 0.7, "x": 0.9, "y": 1.1 },
+					{ "time": 0.8333 }
+				]
+			},
+			"images/bottom_part_green": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -16.68 },
+					{ "time": 0.3333, "angle": -79.09 },
+					{ "time": 0.5, "angle": -63.91 },
+					{ "time": 0.6667, "angle": 23.47 },
+					{ "time": 0.7667, "angle": 2.68 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": -101.37, "y": -270.39 },
+					{ "time": 0.3333, "x": -153.29, "y": -464.4 },
+					{ "time": 0.5, "x": -182.04, "y": -106.7 },
+					{ "time": 0.6667, "x": -166.81, "y": -122.93 },
+					{ "time": 0.7667, "x": -159.87, "y": -9.04 }
+				]
+			}
+		}
+	},
+	"hurt": {
+		"slots": {
+			"images/back_green": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"images/bottom_part_green": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"images/cockpit_green": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"images/engine_L_green": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"images/engine_R_green": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			},
+			"images/weapon_green": {
+				"color": [
+					{ "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/back_green": {
+				"rotate": [
+					{ "angle": -7.84, "curve": 0.276, "c3": 0.621, "c4": 0.4 },
+					{ "time": 0.2, "angle": 9.26, "curve": 0.314, "c2": 0.27, "c3": 0.657, "c4": 0.64 },
+					{ "time": 0.4, "angle": -7.68, "curve": 0.34, "c2": 0.35, "c3": 0.68, "c4": 0.71 },
+					{ "time": 0.5667, "angle": 0.26, "curve": 0.381, "c2": 0.59, "c3": 0.73 },
+					{ "time": 0.8, "angle": -7.84 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.2, "x": -85.09, "y": 68.51, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.4, "x": -118.85, "y": -31.33, "curve": 0.256, "c3": 0.619, "c4": 0.46 },
+					{ "time": 0.5667, "x": -53.54, "y": 51.11, "curve": 0.365, "c2": 0.45, "c3": 0.754 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.2, "x": 0.89, "y": 1.11, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.4, "x": 0.98, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"images/cockpit_green": {
+				"rotate": [
+					{ "curve": 0.276, "c3": 0.621, "c4": 0.4 },
+					{ "time": 0.2, "angle": 6.73, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 4.54, "y": -5.09, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/weapon_green": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.625, "c4": 0.5 },
+					{ "time": 0.2, "angle": -32.55, "curve": 0.375, "c2": 0.5, "c3": 0.75 },
+					{ "time": 0.4, "angle": -1.51, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/engine_R_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 1.06, "y": -7.49, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": -0.53, "y": 12.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "x": 1.06, "y": -7.49, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/engine_L_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": -4.56, "y": -8.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 0.56, "y": 5.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "x": -4.56, "y": -8.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/bottom_part_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 1.08, "y": 5.88, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			}
+		}
+	},
+	"walk": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/back_green": {
+				"rotate": [
+					{ "angle": -7.84, "curve": "stepped" },
+					{ "time": 0.8, "angle": -7.84 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 43.33, "y": 30.26, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 0.98, "y": 1.02, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				]
+			},
+			"images/cockpit_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 4.54, "y": -5.09, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/weapon_green": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -1.51, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/engine_R_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 1.06, "y": -7.49, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": -0.53, "y": 12.57, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "x": 1.06, "y": -7.49, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/engine_L_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": -4.56, "y": -8.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 0.56, "y": 5.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "x": -4.56, "y": -8.28, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4, "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			},
+			"images/bottom_part_green": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "x": 1.08, "y": 5.88, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.8 }
+				]
+			}
+		}
+	}
+}
+}

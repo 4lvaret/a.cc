@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "exterior.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1641,
+				"h": 1331
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 681
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 681
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 681
+					}
+				},
+				{
+					"filename": "Planet",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 441,
+						"h": 445
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 441,
+						"h": 445
+					},
+					"frame": {
+						"x": 1200,
+						"y": 0,
+						"w": 441,
+						"h": 445
+					}
+				},
+				{
+					"filename": "Front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 462
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 462
+					},
+					"frame": {
+						"x": 0,
+						"y": 681,
+						"w": 1200,
+						"h": 462
+					}
+				},
+				{
+					"filename": "Back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 188
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 188
+					},
+					"frame": {
+						"x": 0,
+						"y": 1143,
+						"w": 1200,
+						"h": 188
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d614d78f06214222f66bd62e68842ca8:ee960abb532f94952b1890f611256012:6263d94e850369748e52c7dd4fa3ecd5$"
+	}
+}

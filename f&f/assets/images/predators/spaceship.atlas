@@ -1,0 +1,195 @@
+
+spaceship.png
+size: 806,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/back_dark
+  rotate: false
+  xy: 2, 868
+  size: 411, 158
+  orig: 411, 158
+  offset: 0, 0
+  index: -1
+images/back_green
+  rotate: false
+  xy: 2, 709
+  size: 409, 157
+  orig: 409, 157
+  offset: 0, 0
+  index: -1
+images/back_violet
+  rotate: false
+  xy: 2, 392
+  size: 408, 156
+  orig: 408, 156
+  offset: 0, 0
+  index: -1
+images/back_white
+  rotate: false
+  xy: 2, 550
+  size: 408, 157
+  orig: 408, 157
+  offset: 0, 0
+  index: -1
+images/bottom_part_dark
+  rotate: false
+  xy: 449, 45
+  size: 132, 41
+  orig: 132, 41
+  offset: 0, 0
+  index: -1
+images/bottom_part_green
+  rotate: false
+  xy: 449, 2
+  size: 131, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+images/bottom_part_violet
+  rotate: false
+  xy: 297, 258
+  size: 131, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+images/bottom_part_white
+  rotate: false
+  xy: 297, 216
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+images/cockpit_dark
+  rotate: true
+  xy: 707, 742
+  size: 284, 97
+  orig: 284, 97
+  offset: 0, 0
+  index: -1
+images/cockpit_green
+  rotate: false
+  xy: 413, 721
+  size: 289, 99
+  orig: 289, 99
+  offset: 0, 0
+  index: -1
+images/cockpit_violet
+  rotate: false
+  xy: 415, 822
+  size: 289, 101
+  orig: 289, 101
+  offset: 0, 0
+  index: -1
+images/cockpit_white
+  rotate: false
+  xy: 415, 925
+  size: 290, 101
+  orig: 290, 101
+  offset: 0, 0
+  index: -1
+images/engine_L_dark
+  rotate: true
+  xy: 2, 10
+  size: 182, 147
+  orig: 182, 147
+  offset: 0, 0
+  index: -1
+images/engine_L_green
+  rotate: true
+  xy: 583, 13
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+images/engine_L_violet
+  rotate: false
+  xy: 412, 301
+  size: 183, 146
+  orig: 183, 146
+  offset: 0, 0
+  index: -1
+images/engine_L_white
+  rotate: true
+  xy: 2, 208
+  size: 182, 146
+  orig: 182, 146
+  offset: 0, 0
+  index: -1
+images/engine_R_dark
+  rotate: true
+  xy: 151, 11
+  size: 181, 149
+  orig: 181, 149
+  offset: 0, 0
+  index: -1
+images/engine_R_green
+  rotate: true
+  xy: 302, 11
+  size: 181, 145
+  orig: 181, 145
+  offset: 0, 0
+  index: -1
+images/engine_R_violet
+  rotate: true
+  xy: 150, 208
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1
+images/engine_R_white
+  rotate: false
+  xy: 597, 194
+  size: 183, 145
+  orig: 183, 145
+  offset: 0, 0
+  index: -1
+images/vfx/muzzle flash_00000
+  rotate: true
+  xy: 449, 88
+  size: 128, 132
+  orig: 167, 167
+  offset: 1, 29
+  index: -1
+images/vfx/muzzle flash_00001
+  rotate: true
+  xy: 679, 341
+  size: 132, 101
+  orig: 167, 167
+  offset: 3, 25
+  index: -1
+images/vfx/muzzle flash_00002
+  rotate: true
+  xy: 449, 218
+  size: 81, 145
+  orig: 167, 167
+  offset: 2, 11
+  index: -1
+images/weapon_dark
+  rotate: true
+  xy: 704, 475
+  size: 265, 92
+  orig: 265, 92
+  offset: 0, 0
+  index: -1
+images/weapon_green
+  rotate: false
+  xy: 413, 627
+  size: 265, 92
+  orig: 265, 92
+  offset: 0, 0
+  index: -1
+images/weapon_violet
+  rotate: false
+  xy: 412, 534
+  size: 265, 91
+  orig: 265, 91
+  offset: 0, 0
+  index: -1
+images/weapon_white
+  rotate: false
+  xy: 412, 449
+  size: 265, 83
+  orig: 265, 83
+  offset: 0, 0
+  index: -1

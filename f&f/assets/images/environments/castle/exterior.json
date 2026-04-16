@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "exterior-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 962,
+				"h": 1827
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 545
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 545
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 960,
+						"h": 545
+					}
+				},
+				{
+					"filename": "screenborder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 548,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "font hill",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 268
+					},
+					"frame": {
+						"x": 1,
+						"y": 1090,
+						"w": 960,
+						"h": 268
+					}
+				},
+				{
+					"filename": "ground box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 1360,
+						"w": 960,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Castle hill",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 372,
+						"h": 387
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 372,
+						"h": 387
+					},
+					"frame": {
+						"x": 1,
+						"y": 1391,
+						"w": 372,
+						"h": 387
+					}
+				},
+				{
+					"filename": "platform1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 46
+					},
+					"frame": {
+						"x": 1,
+						"y": 1780,
+						"w": 120,
+						"h": 46
+					}
+				},
+				{
+					"filename": "platform2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 46
+					},
+					"frame": {
+						"x": 123,
+						"y": 1780,
+						"w": 120,
+						"h": 46
+					}
+				},
+				{
+					"filename": "platform3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 46
+					},
+					"frame": {
+						"x": 245,
+						"y": 1780,
+						"w": 120,
+						"h": 46
+					}
+				},
+				{
+					"filename": "shield",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 38
+					},
+					"frame": {
+						"x": 367,
+						"y": 1780,
+						"w": 50,
+						"h": 38
+					}
+				},
+				{
+					"filename": "mid hill",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 467,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 467,
+						"h": 266
+					},
+					"frame": {
+						"x": 419,
+						"y": 1391,
+						"w": 467,
+						"h": 266
+					}
+				},
+				{
+					"filename": "sword",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 78
+					},
+					"frame": {
+						"x": 888,
+						"y": 1391,
+						"w": 73,
+						"h": 78
+					}
+				},
+				{
+					"filename": "cloud1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 273,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 273,
+						"h": 79
+					},
+					"frame": {
+						"x": 375,
+						"y": 1659,
+						"w": 273,
+						"h": 79
+					}
+				},
+				{
+					"filename": "cloud3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 150,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 150,
+						"h": 53
+					},
+					"frame": {
+						"x": 419,
+						"y": 1740,
+						"w": 150,
+						"h": 53
+					}
+				},
+				{
+					"filename": "fence",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 97,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 97,
+						"h": 52
+					},
+					"frame": {
+						"x": 571,
+						"y": 1740,
+						"w": 97,
+						"h": 52
+					}
+				},
+				{
+					"filename": "cloud2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 259,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 259,
+						"h": 121
+					},
+					"frame": {
+						"x": 670,
+						"y": 1659,
+						"w": 259,
+						"h": 121
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5342a04c5c070c89e802bd9e1a6a7905:c41730ed2adaf4f8f72da43bb637ed8f:8bb18992235d1048b75f1d1a39760469$"
+	}
+}

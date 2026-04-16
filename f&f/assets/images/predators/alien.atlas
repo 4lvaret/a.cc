@@ -1,0 +1,174 @@
+
+alien.png
+size: 199,1280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_dark
+  rotate: true
+  xy: 2, 1036
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+body_green
+  rotate: true
+  xy: 2, 792
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+body_red
+  rotate: true
+  xy: 2, 548
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+body_yellow
+  rotate: true
+  xy: 2, 304
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+eye-closed-dark
+  rotate: false
+  xy: 2, 151
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+eye-closed-green
+  rotate: false
+  xy: 2, 225
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+eye-closed-red
+  rotate: true
+  xy: 77, 125
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+eye-closed-yellow
+  rotate: false
+  xy: 87, 225
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 165, 169
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+eyebrow_dark
+  rotate: true
+  xy: 172, 224
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+eyebrow_red
+  rotate: true
+  xy: 130, 140
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+eyebrow_yellow
+  rotate: true
+  xy: 165, 114
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+pupil_dark
+  rotate: false
+  xy: 53, 6
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+pupil_green
+  rotate: false
+  xy: 130, 100
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+pupil_red
+  rotate: true
+  xy: 104, 2
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+pupil_yellow
+  rotate: false
+  xy: 141, 100
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+tentacle_back_L_dark
+  rotate: false
+  xy: 152, 63
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_L_green
+  rotate: true
+  xy: 2, 110
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_L_red
+  rotate: true
+  xy: 53, 84
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_L_yellow
+  rotate: false
+  xy: 104, 49
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_dark
+  rotate: true
+  xy: 2, 69
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_green
+  rotate: true
+  xy: 53, 43
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_red
+  rotate: true
+  xy: 2, 28
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_yellow
+  rotate: true
+  xy: 145, 22
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1

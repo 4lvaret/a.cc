@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "exterior.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1854,
+				"h": 1651
+			},
+			"scale": 0.25,
+			"frames": [
+				{
+					"filename": "Background",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 681
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 681
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1200,
+						"h": 681
+					}
+				},
+				{
+					"filename": "sand swirl 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 650,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 650,
+						"h": 281
+					},
+					"frame": {
+						"x": 1203,
+						"y": 1,
+						"w": 650,
+						"h": 281
+					}
+				},
+				{
+					"filename": "sand swirl 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 534,
+						"h": 389
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 534,
+						"h": 389
+					},
+					"frame": {
+						"x": 1203,
+						"y": 284,
+						"w": 534,
+						"h": 389
+					}
+				},
+				{
+					"filename": "Sun",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 383,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 383,
+						"h": 341
+					},
+					"frame": {
+						"x": 1203,
+						"y": 675,
+						"w": 383,
+						"h": 341
+					}
+				},
+				{
+					"filename": "Mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 684,
+						"w": 1200,
+						"h": 482
+					}
+				},
+				{
+					"filename": "Fronts",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1168,
+						"w": 1200,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1200,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 213
+					},
+					"frame": {
+						"x": 1,
+						"y": 1437,
+						"w": 1200,
+						"h": 213
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bdee5f1d92dc7181af092c502b4cffae:8ce6b1a7dc7f97cf8beeb87956048ed1:6263d94e850369748e52c7dd4fa3ecd5$"
+	}
+}

@@ -1,0 +1,132 @@
+
+reaper.png
+size: 348,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_1
+  rotate: true
+  xy: 175, 46
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: true
+  xy: 175, 46
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Body_3
+  rotate: true
+  xy: 213, 46
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Body_4
+  rotate: true
+  xy: 251, 49
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+Head_1
+  rotate: false
+  xy: 140, 2
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 192, 2
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Head_3
+  rotate: false
+  xy: 244, 2
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: false
+  xy: 296, 3
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+arm_R_1
+  rotate: false
+  xy: 2, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: false
+  xy: 48, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+arm_R_3
+  rotate: false
+  xy: 94, 3
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+arm_R_4
+  rotate: false
+  xy: 129, 46
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 289, 62
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 289, 47
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 33
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 229, 80
+  size: 51, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 129, 77
+  size: 54, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 71, 34
+  size: 56, 97
+  orig: 67, 98
+  offset: 0, 0
+  index: -1

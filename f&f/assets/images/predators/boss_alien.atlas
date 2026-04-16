@@ -1,0 +1,195 @@
+
+boss_alien.png
+size: 1728,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_dark
+  rotate: false
+  xy: 436, 5
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+body_green
+  rotate: false
+  xy: 680, 5
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+body_red
+  rotate: false
+  xy: 924, 5
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+body_yellow
+  rotate: false
+  xy: 1168, 5
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+eye-closed-dark
+  rotate: false
+  xy: 1643, 73
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+eye-closed-green
+  rotate: true
+  xy: 1485, 117
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+eye-closed-red
+  rotate: true
+  xy: 1432, 102
+  size: 98, 51
+  orig: 98, 51
+  offset: 0, 0
+  index: -1
+eye-closed-yellow
+  rotate: true
+  xy: 1564, 117
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 1412, 7
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+eyebrow_dark
+  rotate: false
+  xy: 1643, 147
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+eyebrow_red
+  rotate: false
+  xy: 1643, 167
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+eyebrow_yellow
+  rotate: true
+  xy: 1445, 7
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 219, 2
+  size: 215, 198
+  orig: 215, 198
+  offset: 0, 0
+  index: -1
+glass-bottom
+  rotate: true
+  xy: 1412, 62
+  size: 138, 18
+  orig: 138, 18
+  offset: 0, 0
+  index: -1
+glass-broken
+  rotate: false
+  xy: 2, 2
+  size: 215, 198
+  orig: 215, 198
+  offset: 0, 0
+  index: -1
+pupil_dark
+  rotate: true
+  xy: 1432, 62
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+pupil_green
+  rotate: false
+  xy: 1469, 62
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+pupil_red
+  rotate: true
+  xy: 1683, 26
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+pupil_yellow
+  rotate: false
+  xy: 1480, 62
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+tentacle_back_L_dark
+  rotate: false
+  xy: 1478, 11
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_L_green
+  rotate: false
+  xy: 1491, 66
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_L_red
+  rotate: false
+  xy: 1519, 15
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_L_yellow
+  rotate: false
+  xy: 1532, 66
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_dark
+  rotate: false
+  xy: 1560, 15
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_green
+  rotate: false
+  xy: 1573, 66
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_red
+  rotate: false
+  xy: 1601, 15
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+tentacle_back_R_yellow
+  rotate: false
+  xy: 1642, 22
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1

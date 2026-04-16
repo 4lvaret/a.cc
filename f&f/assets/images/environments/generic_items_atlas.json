@@ -1,0 +1,1280 @@
+{
+	"textures": [
+		{
+			"image": "generic_items_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 249,
+				"h": 444
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Box 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Box 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 52,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Box 3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 1,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Castle Exterior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Castle Exterior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 52,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Castle Exterior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 103,
+						"y": 1,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Castle Interior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 154,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Castle Interior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 103,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Castle Interior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 103,
+						"y": 52,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Egypt Exterior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 154,
+						"y": 1,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "castle_spring",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 37
+					},
+					"frame": {
+						"x": 205,
+						"y": 1,
+						"w": 43,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Egypt Exterior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 205,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Egypt Exterior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 154,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Egypt Interior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 103,
+						"y": 103,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Egypt Interior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 154,
+						"y": 52,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "egypt_sprung",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 37
+					},
+					"frame": {
+						"x": 205,
+						"y": 40,
+						"w": 43,
+						"h": 37
+					}
+				},
+				{
+					"filename": "jungle_sprung",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 37
+					},
+					"frame": {
+						"x": 205,
+						"y": 79,
+						"w": 43,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Egypt Interior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 154,
+						"y": 103,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Jungle Exterior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 256,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Jungle Exterior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 205,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Jungle Exterior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 103,
+						"y": 154,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Jungle Interior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 307,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Jungle Interior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 256,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Jungle Interior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 103,
+						"y": 205,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Space Exterior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 154,
+						"y": 154,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Space Exterior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 1,
+						"y": 358,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Star",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 409,
+						"w": 35,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Space Exterior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 307,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Space Interior Bridge Corner 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 103,
+						"y": 256,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Space Interior Bridge Corner 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 154,
+						"y": 205,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "Space Interior Bridge mid",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 49
+					},
+					"frame": {
+						"x": 52,
+						"y": 358,
+						"w": 49,
+						"h": 49
+					}
+				},
+				{
+					"filename": "coinframe1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 34
+					},
+					"frame": {
+						"x": 38,
+						"y": 409,
+						"w": 31,
+						"h": 34
+					}
+				},
+				{
+					"filename": "coinframe2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 34
+					},
+					"frame": {
+						"x": 71,
+						"y": 409,
+						"w": 31,
+						"h": 34
+					}
+				},
+				{
+					"filename": "castle_sprung",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 25
+					},
+					"frame": {
+						"x": 205,
+						"y": 118,
+						"w": 43,
+						"h": 25
+					}
+				},
+				{
+					"filename": "egypt_spring",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 25
+					},
+					"frame": {
+						"x": 205,
+						"y": 145,
+						"w": 43,
+						"h": 25
+					}
+				},
+				{
+					"filename": "jungle_spring",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 43,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 43,
+						"h": 25
+					},
+					"frame": {
+						"x": 205,
+						"y": 172,
+						"w": 43,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Clock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 41
+					},
+					"frame": {
+						"x": 154,
+						"y": 256,
+						"w": 50,
+						"h": 41
+					}
+				},
+				{
+					"filename": "heart",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 44
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 46,
+						"h": 43
+					},
+					"frame": {
+						"x": 103,
+						"y": 307,
+						"w": 46,
+						"h": 43
+					}
+				},
+				{
+					"filename": "space_sprung",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 36
+					},
+					"frame": {
+						"x": 205,
+						"y": 199,
+						"w": 42,
+						"h": 36
+					}
+				},
+				{
+					"filename": "space_spring",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 25
+					},
+					"frame": {
+						"x": 206,
+						"y": 237,
+						"w": 42,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Space Exterior Spikes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 23
+					},
+					"frame": {
+						"x": 103,
+						"y": 352,
+						"w": 48,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Castle Spikes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 20
+					},
+					"frame": {
+						"x": 103,
+						"y": 377,
+						"w": 49,
+						"h": 20
+					}
+				},
+				{
+					"filename": "coinframe6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 31,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 34
+					},
+					"frame": {
+						"x": 206,
+						"y": 264,
+						"w": 31,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Castle Switch Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 18
+					},
+					"frame": {
+						"x": 104,
+						"y": 399,
+						"w": 47,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Egypt Switch Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 18
+					},
+					"frame": {
+						"x": 104,
+						"y": 419,
+						"w": 47,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Egypt Spikes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 10
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 10
+					},
+					"frame": {
+						"x": 154,
+						"y": 299,
+						"w": 49,
+						"h": 10
+					}
+				},
+				{
+					"filename": "Jungle Spikes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 16
+					},
+					"frame": {
+						"x": 151,
+						"y": 311,
+						"w": 49,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Jungle Switch Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 18
+					},
+					"frame": {
+						"x": 151,
+						"y": 329,
+						"w": 47,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Space Switch Base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 18
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 18
+					},
+					"frame": {
+						"x": 153,
+						"y": 349,
+						"w": 47,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Space Interior Spikes",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 15
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 15
+					},
+					"frame": {
+						"x": 154,
+						"y": 369,
+						"w": 48,
+						"h": 15
+					}
+				},
+				{
+					"filename": "Key 2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 37,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 17
+					},
+					"frame": {
+						"x": 154,
+						"y": 386,
+						"w": 37,
+						"h": 17
+					}
+				},
+				{
+					"filename": "coinframe3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 153,
+						"y": 405,
+						"w": 29,
+						"h": 34
+					}
+				},
+				{
+					"filename": "coinframe4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 12,
+						"h": 34
+					},
+					"frame": {
+						"x": 184,
+						"y": 405,
+						"w": 12,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Key 1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 21
+					},
+					"frame": {
+						"x": 205,
+						"y": 300,
+						"w": 36,
+						"h": 21
+					}
+				},
+				{
+					"filename": "coinframe5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 31,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 202,
+						"y": 323,
+						"w": 29,
+						"h": 34
+					}
+				},
+				{
+					"filename": "Castle Switch Stick",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 29
+					},
+					"frame": {
+						"x": 233,
+						"y": 323,
+						"w": 10,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Key 3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 35,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 35,
+						"h": 16
+					},
+					"frame": {
+						"x": 204,
+						"y": 359,
+						"w": 35,
+						"h": 16
+					}
+				},
+				{
+					"filename": "Egypt Switch Stick",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 29
+					},
+					"frame": {
+						"x": 204,
+						"y": 377,
+						"w": 10,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Jungle Switch Stick",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 29
+					},
+					"frame": {
+						"x": 216,
+						"y": 377,
+						"w": 10,
+						"h": 29
+					}
+				},
+				{
+					"filename": "Space Switch Stick",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 10,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 10,
+						"h": 28
+					},
+					"frame": {
+						"x": 228,
+						"y": 377,
+						"w": 10,
+						"h": 28
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:3a4cd4eff28096560018b00c041da054:a3db449f4f321773403806fa923f91f5:a022655aa3af67883a1b9466bd3dbeaf$"
+	}
+}

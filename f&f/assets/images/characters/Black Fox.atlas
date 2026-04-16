@@ -1,0 +1,230 @@
+
+Black Fox.png
+size: 797,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: true
+  xy: 296, 212
+  size: 96, 151
+  orig: 96, 151
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 449, 162
+  size: 93, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 278, 67
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+body-back
+  rotate: false
+  xy: 544, 235
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+eyeball_l
+  rotate: true
+  xy: 424, 6
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+eyeball_r
+  rotate: false
+  xy: 655, 272
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+eyebrow_l
+  rotate: true
+  xy: 763, 256
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: true
+  xy: 416, 166
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+eyelid_bottom_l
+  rotate: false
+  xy: 655, 238
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+eyelid_bottom_r
+  rotate: false
+  xy: 715, 43
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+eyelid_top_l
+  rotate: true
+  xy: 625, 10
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+eyelid_top_r
+  rotate: false
+  xy: 572, 9
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+hand-holding
+  rotate: false
+  xy: 676, 167
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 243
+  size: 292, 267
+  orig: 292, 267
+  offset: 0, 0
+  index: -1
+head-back
+  rotate: false
+  xy: 2, 2
+  size: 274, 239
+  orig: 274, 239
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 535, 350
+  size: 140, 160
+  orig: 140, 160
+  offset: 0, 0
+  index: -1
+leg_r_back
+  rotate: true
+  xy: 544, 164
+  size: 69, 130
+  orig: 69, 130
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: false
+  xy: 671, 7
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 671, 29
+  size: 40, 20
+  orig: 43, 23
+  offset: 1, 1
+  index: -1
+mouth_c
+  rotate: true
+  xy: 769, 44
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 763, 237
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+pupil_l
+  rotate: false
+  xy: 763, 299
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+pupil_r
+  rotate: true
+  xy: 499, 5
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+run-effect
+  rotate: true
+  xy: 677, 364
+  size: 146, 118
+  orig: 168, 139
+  offset: 8, 15
+  index: -1
+tail
+  rotate: false
+  xy: 296, 310
+  size: 237, 200
+  orig: 237, 200
+  offset: 0, 0
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00000
+  rotate: false
+  xy: 278, 9
+  size: 144, 56
+  orig: 167, 167
+  offset: 9, 79
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00001
+  rotate: false
+  xy: 416, 104
+  size: 144, 56
+  orig: 167, 167
+  offset: 9, 79
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00002
+  rotate: false
+  xy: 572, 51
+  size: 141, 53
+  orig: 167, 167
+  offset: 6, 80
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00003
+  rotate: true
+  xy: 729, 82
+  size: 139, 52
+  orig: 167, 167
+  offset: 5, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00004
+  rotate: true
+  xy: 708, 223
+  size: 139, 53
+  orig: 167, 167
+  offset: 4, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00005
+  rotate: false
+  xy: 424, 47
+  size: 146, 55
+  orig: 167, 167
+  offset: 3, 78
+  index: -1
+vfx/smoke trail loop/smoke trail loopa_00006
+  rotate: false
+  xy: 562, 106
+  size: 149, 56
+  orig: 167, 167
+  offset: 3, 79
+  index: -1

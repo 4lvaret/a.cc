@@ -1,0 +1,666 @@
+{
+
+  "gameType": "timestables",
+
+  "debug": {
+    "noLoadProgress": false,
+    "godMode": false
+  },
+
+  "UI_scale": 0.8,
+  
+  "level_experience": [0, 50, 150, 350, 720, 1100, 1500, 2100, 2680, 3300, 4000, 4730, 5500, 6350, 7250, 8250, 9350, 10500, 11750, 13100, 14500, 16000, 17800, 19700, 22000, 25000, 30000, 36000, 43000, 51000, 60000],
+
+  "show_decorative_border": false,
+
+  "questions_config": {
+    "easy_questions": [1, 2, 3, 4, 5, 10],
+    "all_questions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "is_reversed_order": true 
+  },
+  
+  "math_questions_config": [
+    {"mode": "add", "till": 10, "diff": "easy"},
+    {"mode": "add", "till": 20, "diff": "easy"},
+    {"mode": "add", "till": 20, "diff": "hard"},
+    {"mode": "sub", "till": 10, "diff": "easy"},
+    {"mode": "sub", "till": 20, "diff": "easy"},
+    {"mode": "sub", "till": 20, "diff": "hard"},
+    {"mode": "add", "till": 50, "diff": "easy"},
+    {"mode": "add", "till": 50, "diff": "hard"},
+    {"mode": "sub", "till": 50, "diff": "easy"},
+    {"mode": "sub", "till": 50, "diff": "hard"},
+    {"mode": "add", "till": 100, "diff": "easy"},
+    {"mode": "sub", "till": 100, "diff": "easy"},
+    {"mode": "both", "till": 100, "diff": "hard"}
+  ],
+	  
+  "keyboard_config": {
+    "layout": [11, 10, 9, 9],
+    "y_pads": [10, 5, 0, 0, 0],
+    "ltrs": [
+      {"val": "1", "subltrs": null, "shift": "!"},
+      {"val": "2", "subltrs": null, "shift": "@"},
+      {"val": "3", "subltrs": null, "shift": "#"},
+      {"val": "4", "subltrs": null, "shift": "$"},
+      {"val": "5", "subltrs": null, "shift": "%"},
+      {"val": "6", "subltrs": null, "shift": "^"},
+      {"val": "7", "subltrs": null, "shift": "&"},
+      {"val": "8", "subltrs": null, "shift": "*"},
+      {"val": "9", "subltrs": null, "shift": "("},
+      {"val": "0", "subltrs": null, "shift": ")"},
+      {"val": "-", "subltrs": null, "shift": "_"},
+
+      {"val": "Q", "subltrs": null},
+      {"val": "W", "subltrs": null},
+      {"val": "E", "subltrs": ["É", "È", "Ë", "Ê"]},
+      {"val": "R", "subltrs": null},
+      {"val": "T", "subltrs": null},
+      {"val": "Y", "subltrs": null},
+      {"val": "U", "subltrs": null},
+      {"val": "I", "subltrs": ["Í", "Ì", "Ï", "Î"]},
+      {"val": "O", "subltrs": ["Ó", "Ò", "Ö", "Ô"]},
+      {"val": "P", "subltrs": null},
+
+      {"val": "A", "subltrs": ["Á", "À", "Ä", "Â"]},
+      {"val": "S", "subltrs": null},
+      {"val": "D", "subltrs": null},
+      {"val": "F", "subltrs": null},
+      {"val": "G", "subltrs": null},
+      {"val": "H", "subltrs": null},
+      {"val": "J", "subltrs": null},
+      {"val": "K", "subltrs": null},
+      {"val": "L", "subltrs": null},
+
+      {"val": "Z", "subltrs": null},
+      {"val": "X", "subltrs": null},
+      {"val": "C", "subltrs": ["Ç"]},
+      {"val": "V", "subltrs": null},
+      {"val": "B", "subltrs": null},
+      {"val": "N", "subltrs": null},
+      {"val": "M", "subltrs": null},
+      {"val": ",", "subltrs": null},
+      {"val": ".", "subltrs": null}
+    ]
+  },
+
+  "roadmap": [
+    "castle", "castle", "castle",
+    "jungle", "jungle", "jungle",
+    "space", "space", "space",
+    "egypt", "egypt", "egypt"
+  ],
+
+  "friends": [
+    {
+      "name": "Figo",
+      "spine": "Black Fox",
+      "color": "orange",
+      "gender": "boy"
+    },
+    {
+      "name": "Rizen",
+      "spine": "Dark Princess",
+      "color": "black",
+      "gender": "girl"
+    },
+    {
+      "name": "Matcha",
+      "spine": "bear",
+      "color": "brown",
+      "gender": "boy"
+    },
+    {
+      "name": "Jacko",
+      "spine": "Fio",
+      "color": "yellow",
+      "gender": "boy"
+    },
+    {
+      "name": "Dino",
+      "spine": "dino",
+      "color": "darkGreen",
+      "gender": "boy"
+    },
+    {
+      "name": "Fiona",
+      "spine": "Fiona",
+      "color": "fushia",
+      "gender": "girl"
+    },
+    {
+      "name": "Louise",
+      "spine": "Foxy Girl",
+      "color": "blue",
+      "gender": "girl"
+    },
+    {
+      "name": "Yurick",
+      "spine": "Hoodie",
+      "color": "cyan",
+      "gender": "boy"
+    },
+    {
+      "name": "Gustav",
+      "spine": "salamander",
+      "color": "teal",
+      "gender": "boy"
+    },
+    {
+      "name": "Sonia",
+      "spine": "Sonia",
+      "color": "red",
+      "gender": "girl"
+    },
+    {
+      "name": "Sam",
+      "spine": "Space Sam",
+      "color": "violet",
+      "gender": "boy"
+    },
+    {
+      "name": "Alberto",
+      "spine": "turtle",
+      "color": "green",
+      "gender": "boy"
+    },
+    {
+      "name": "Kaley",
+      "spine": "Unicorn",
+      "color": "pink",
+      "gender": "girl"
+    }
+  ],
+  
+  "achievementCaps": [
+    [50, 100, 150, 200, 250, 300, 500],
+    [5, 10, 20, 30, 40, 50, 100],
+    [10, 20, 30, 40, 50, 75, 100],
+    [25, 50, 100, 150, 200, 250, 400],
+    [30, 60, 90, 120, 150, 180, 240]
+  ],
+
+  "roadmaps": [
+    [{
+        "used": 0,
+        "name": "jungle1"
+    }, {
+        "used": 0,
+        "name": "egypt1"
+    }, {
+        "used": 0,
+        "name": "egypt3"
+    }, {
+        "used": 0,
+        "name": "table1level4castle4"
+    }, {
+        "used": 0,
+        "name": "table1level5"
+    }, {
+        "used": 0,
+        "name": "table1level6"
+    }, {
+        "used": 0,
+        "name": "table1level7"
+    }, {
+        "used": 0,
+        "name": "table1level8"
+    }, {
+        "used": 0,
+        "name": "table1level9"
+    }, {
+        "used": 0,
+        "name": "table1level10jungle8"
+    }, {
+        "used": 0,
+        "name": "castle9"
+    }, {
+        "used": 0,
+        "name": "space10"
+    }, {
+        "used": 0,
+        "name": "table1level13"
+    }],
+    [{
+        "used": 0,
+        "name": "space1"
+    }, {
+        "used": 0,
+        "name": "castle1"
+    }, {
+        "used": 0,
+        "name": "egypt2"
+    }, {
+        "used": 0,
+        "name": "table2level4castle4"
+    }, {
+        "used": 0,
+        "name": "jungle6"
+    }, {
+        "used": 0,
+        "name": "jungle4"
+    }, {
+        "used": 0,
+        "name": "jungle5"
+    }, {
+        "used": 0,
+        "name": "egypt7"
+    }, {
+        "used": 0,
+        "name": "castle7"
+    }, {
+        "used": 0,
+        "name": "egypt9"
+    }, {
+        "used": 0,
+        "name": "space8"
+    }, {
+        "used": 0,
+        "name": "egypt8"
+    }, {
+        "used": 0,
+        "name": "castle12"
+    }],
+    [{
+        "used": 0,
+        "name": "space2"
+    }, {
+        "used": 0,
+        "name": "castle2"
+    }, {
+        "used": 0,
+        "name": "space3"
+    }, {
+        "used": 0,
+        "name": "egypt4"
+    }, {
+        "used": 0,
+        "name": "space5"
+    }, {
+        "used": 0,
+        "name": "egypt5"
+    }, {
+        "used": 0,
+        "name": "castle5"
+    }, {
+        "used": 0,
+        "name": "egypt10"
+    }, {
+        "used": 0,
+        "name": "jungle7"
+    }, {
+        "used": 0,
+        "name": "jungle10"
+    }, {
+        "used": 0,
+        "name": "jungle9"
+    }, {
+        "used": 0,
+        "name": "space7"
+    }, {
+        "used": 0,
+        "name": "castle13"
+    }],
+    [{
+        "used": 0,
+        "name": "egypt1"
+    }, {
+        "used": 0,
+        "name": "jungle3"
+    }, {
+        "used": 0,
+        "name": "castle3"
+    }, {
+        "used": 0,
+        "name": "jungle5"
+    }, {
+        "used": 0,
+        "name": "castle5"
+    }, {
+        "used": 0,
+        "name": "egypt4"
+    }, {
+        "used": 0,
+        "name": "egypt5"
+    }, {
+        "used": 0,
+        "name": "castle7"
+    }, {
+        "used": 0,
+        "name": "egypt7"
+    }, {
+        "used": 0,
+        "name": "space9"
+    }, {
+        "used": 0,
+        "name": "castle9"
+    }, {
+        "used": 0,
+        "name": "egypt9"
+    }, {
+        "used": 0,
+        "name": "jungle11"
+    }],
+    [{
+        "used": 0,
+        "name": "castle2"
+    }, {
+        "used": 0,
+        "name": "egypt2"
+    }, {
+        "used": 0,
+        "name": "egypt3"
+    }, {
+        "used": 0,
+        "name": "table5level4jungle4"
+    }, {
+        "used": 0,
+        "name": "castle6"
+    }, {
+        "used": 0,
+        "name": "space6"
+    }, {
+        "used": 0,
+        "name": "egypt6"
+    }, {
+        "used": 0,
+        "name": "egypt8"
+    }, {
+        "used": 0,
+        "name": "space8"
+    }, {
+        "used": 0,
+        "name": "castle8"
+    }, {
+        "used": 0,
+        "name": "space7"
+    }, {
+        "used": 0,
+        "name": "space10"
+    }, {
+        "used": 0,
+        "name": "jungle12"
+    }],
+    [{
+        "used": 0,
+        "name": "jungle2"
+    }, {
+        "used": 0,
+        "name": "space3"
+    }, {
+        "used": 0,
+        "name": "space2"
+    }, {
+        "used": 0,
+        "name": "space5"
+    }, {
+        "used": 0,
+        "name": "table6level5castle6"
+    }, {
+        "used": 0,
+        "name": "egypt6"
+    }, {
+        "used": 0,
+        "name": "space4"
+    }, {
+        "used": 0,
+        "name": "jungle8"
+    }, {
+        "used": 0,
+        "name": "jungle10"
+    }, {
+        "used": 0,
+        "name": "egypt10"
+    }, {
+        "used": 0,
+        "name": "jungle7"
+    }, {
+        "used": 0,
+        "name": "space8"
+    }, {
+        "used": 0,
+        "name": "jungle13"
+    }],
+    [{
+        "used": 0,
+        "name": "castle3"
+    }, {
+        "used": 0,
+        "name": "space1"
+    }, {
+        "used": 0,
+        "name": "jungle3"
+    }, {
+        "used": 0,
+        "name": "egypt5"
+    }, {
+        "used": 0,
+        "name": "space6"
+    }, {
+        "used": 0,
+        "name": "jungle6"
+    }, {
+        "used": 0,
+        "name": "egypt4"
+    }, {
+        "used": 0,
+        "name": "castle9"
+    }, {
+        "used": 0,
+        "name": "jungle9"
+    }, {
+        "used": 0,
+        "name": "jungle8"
+    }, {
+        "used": 0,
+        "name": "egypt10"
+    }, {
+        "used": 0,
+        "name": "space10"
+    }, {
+        "used": 0,
+        "name": "space11"
+    }],
+    [{
+        "used": 0,
+        "name": "castle1"
+    }, {
+        "used": 0,
+        "name": "egypt3"
+    }, {
+        "used": 0,
+        "name": "jungle2"
+    }, {
+        "used": 0,
+        "name": "jungle4"
+    }, {
+        "used": 0,
+        "name": "castle5"
+    }, {
+        "used": 0,
+        "name": "space4"
+    }, {
+        "used": 0,
+        "name": "jungle6"
+    }, {
+        "used": 0,
+        "name": "space7"
+    }, {
+        "used": 0,
+        "name": "egypt8"
+    }, {
+        "used": 0,
+        "name": "egypt9"
+    }, {
+        "used": 0,
+        "name": "castle8"
+    }, {
+        "used": 0,
+        "name": "jungle8"
+    }, {
+        "used": 0,
+        "name": "space12"
+    }],
+    [{
+        "used": 0,
+        "name": "egypt1"
+    }, {
+        "used": 0,
+        "name": "jungle1"
+    }, {
+        "used": 0,
+        "name": "space2"
+    }, {
+        "used": 0,
+        "name": "castle6"
+    }, {
+        "used": 0,
+        "name": "jungle5"
+    }, {
+        "used": 0,
+        "name": "castle4"
+    }, {
+        "used": 0,
+        "name": "space5"
+    }, {
+        "used": 0,
+        "name": "castle8"
+    }, {
+        "used": 0,
+        "name": "egypt7"
+    }, {
+        "used": 0,
+        "name": "jungle10"
+    }, {
+        "used": 0,
+        "name": "space9"
+    }, {
+        "used": 0,
+        "name": "castle7"
+    }, {
+        "used": 0,
+        "name": "space13"
+    }],
+    [{
+        "used": 0,
+        "name": "castle3"
+    }, {
+        "used": 0,
+        "name": "castle2"
+    }, {
+        "used": 0,
+        "name": "jungle1"
+    }, {
+        "used": 0,
+        "name": "table10level4"
+    }, {
+        "used": 0,
+        "name": "egypt6"
+    }, {
+        "used": 0,
+        "name": "jungle4"
+    }, {
+        "used": 0,
+        "name": "castle6"
+    }, {
+        "used": 0,
+        "name": "egypt9"
+    }, {
+        "used": 0,
+        "name": "castle10"
+    }, {
+        "used": 0,
+        "name": "jungle9"
+    }, {
+        "used": 0,
+        "name": "castle7"
+    }, {
+        "used": 0,
+        "name": "space9"
+    }, {
+        "used": 0,
+        "name": "egypt11"
+    }],
+    [{
+        "used": 0,
+        "name": "space2"
+    }, {
+        "used": 0,
+        "name": "egypt2"
+    }, {
+        "used": 0,
+        "name": "jungle2"
+    }, {
+        "used": 0,
+        "name": "space4"
+    }, {
+        "used": 0,
+        "name": "egypt4"
+    }, {
+        "used": 0,
+        "name": "egypt5"
+    }, {
+        "used": 0,
+        "name": "castle4"
+    }, {
+        "used": 0,
+        "name": "jungle7"
+    }, {
+        "used": 0,
+        "name": "space7"
+    }, {
+        "used": 0,
+        "name": "jungle10"
+    }, {
+        "used": 0,
+        "name": "egypt10"
+    }, {
+        "used": 0,
+        "name": "castle10"
+    }, {
+        "used": 0,
+        "name": "egypt12"
+    }],
+    [{
+        "used": 0,
+        "name": "space1"
+    }, {
+        "used": 0,
+        "name": "space3"
+    }, {
+        "used": 0,
+        "name": "castle1"
+    }, {
+        "used": 0,
+        "name": "castle5"
+    }, {
+        "used": 0,
+        "name": "jungle5"
+    }, {
+        "used": 0,
+        "name": "space5"
+    }, {
+        "used": 0,
+        "name": "jungle6"
+    }, {
+        "used": 0,
+        "name": "space10"
+    }, {
+        "used": 0,
+        "name": "space8"
+    }, {
+        "used": 0,
+        "name": "egypt7"
+    }, {
+        "used": 0,
+        "name": "jungle7"
+    }, {
+        "used": 0,
+        "name": "egypt8"
+    }, {
+        "used": 0,
+        "name": "egypt13"
+    }]
+]
+
+}

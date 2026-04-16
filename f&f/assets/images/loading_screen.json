@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "loading_screen.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 962,
+				"h": 1494
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 960,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 960,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 960,
+						"h": 540
+					}
+				},
+				{
+					"filename": "Logo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 783,
+						"h": 211
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 759,
+						"h": 204
+					},
+					"frame": {
+						"x": 1,
+						"y": 543,
+						"w": 759,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Loading",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 57
+					},
+					"frame": {
+						"x": 762,
+						"y": 543,
+						"w": 182,
+						"h": 57
+					}
+				},
+				{
+					"filename": "Loading dot",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 9,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 9,
+						"h": 14
+					},
+					"frame": {
+						"x": 946,
+						"y": 543,
+						"w": 9,
+						"h": 14
+					}
+				},
+				{
+					"filename": "FioRun f3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 128
+					},
+					"frame": {
+						"x": 762,
+						"y": 602,
+						"w": 108,
+						"h": 128
+					}
+				},
+				{
+					"filename": "FioRun f2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 126
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 126
+					},
+					"frame": {
+						"x": 762,
+						"y": 732,
+						"w": 108,
+						"h": 126
+					}
+				},
+				{
+					"filename": "logoMath",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 783,
+						"h": 211
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 738,
+						"h": 198
+					},
+					"frame": {
+						"x": 1,
+						"y": 749,
+						"w": 738,
+						"h": 198
+					}
+				},
+				{
+					"filename": "FioRun f1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 123
+					},
+					"frame": {
+						"x": 741,
+						"y": 860,
+						"w": 108,
+						"h": 123
+					}
+				},
+				{
+					"filename": "logoFractions",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 737,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 737,
+						"h": 216
+					},
+					"frame": {
+						"x": 1,
+						"y": 949,
+						"w": 737,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Screen",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 553,
+						"h": 326
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 553,
+						"h": 326
+					},
+					"frame": {
+						"x": 1,
+						"y": 1167,
+						"w": 553,
+						"h": 326
+					}
+				},
+				{
+					"filename": "FioRun f4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 136
+					},
+					"frame": {
+						"x": 851,
+						"y": 860,
+						"w": 107,
+						"h": 136
+					}
+				},
+				{
+					"filename": "FioRun f9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 129
+					},
+					"frame": {
+						"x": 740,
+						"y": 985,
+						"w": 107,
+						"h": 129
+					}
+				},
+				{
+					"filename": "FioRun f10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 127
+					},
+					"frame": {
+						"x": 849,
+						"y": 998,
+						"w": 106,
+						"h": 127
+					}
+				},
+				{
+					"filename": "FioRun f8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 125
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 125
+					},
+					"frame": {
+						"x": 740,
+						"y": 1116,
+						"w": 106,
+						"h": 125
+					}
+				},
+				{
+					"filename": "FioRun f6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 136
+					},
+					"frame": {
+						"x": 848,
+						"y": 1127,
+						"w": 103,
+						"h": 136
+					}
+				},
+				{
+					"filename": "FioRun f5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 133
+					},
+					"frame": {
+						"x": 556,
+						"y": 1167,
+						"w": 103,
+						"h": 133
+					}
+				},
+				{
+					"filename": "FioRun f7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 102,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 102,
+						"h": 128
+					},
+					"frame": {
+						"x": 556,
+						"y": 1302,
+						"w": 102,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d3b2b8560b4c053d01ac84844de8b0ef:683911d39945d06a00ab3e0f9ff576a8:1a9108f8a8223ec684500783e5a8da44$"
+	}
+}
