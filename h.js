@@ -1,5 +1,5 @@
 document.open();
 document.write(`
-hahaha get rekt
+haha get rekt
 `);
 document.close();
