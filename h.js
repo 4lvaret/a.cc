@@ -1,6 +1,6 @@
 document.open();
 document.write(`
-haha get rekt
+hahaha get rekt
 <script>location.reload()</script>
 `);
 document.close();
