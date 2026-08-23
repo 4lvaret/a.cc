@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LocalStorage Manager</title>
+</head>
+<body>
+  <button id="clearBtn">Clear LocalStorage</button>
+  <button id="loadBtn">Load localstorage.json</button>
+
+  <p id="status"></p>
+
+  <script>
+    const status = document.getElementById("status");
+
+    document.getElementById("clearBtn").addEventListener("click", () => {
+      localStorage.clear();
+      status.textContent = "LocalStorage cleared.";
+    });
+
+    document.getElementById("loadBtn").addEventListener("click", async () => {
+      try {
+        const response = await fetch("localstorage.json");
+
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        // Clear everything first
+        localStorage.clear();
+
+        // localstorage.json contains key/value pairs
+        for (const [key, value] of Object.entries(data)) {
+          localStorage.setItem(key, value);
+        }
+
+        status.textContent = `Loaded ${Object.keys(data).length} items from localstorage.json.`;
+      } catch (error) {
+        console.error(error);
+        status.textContent =
+          "Failed to load localstorage.json. If you're opening this HTML directly, try running it through a local web server.";
+      }
+    });
+  </script>
+</body>
+</html>
