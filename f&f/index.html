@@ -1,5 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Figo And Friends (letterboxed)</title>
 <style>
-body {
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
     overflow: hidden;
-}</style>
-<iframe src="build" scrolling="no" title="Subway Surfers Launcher" style="border: 0; height: 100%; left: 0; position: absolute; top: 0; width: 100%;"></iframe>
+}
+#letterbox {
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    overflow: hidden;
+    position: relative;
+}
+#game-container {
+    width: 1366px;
+    height: 768px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: top left;
+}
+</style>
+</head>
+<body>
+
+<div id="letterbox">
+    <div id="game-container">
+        <iframe src="build/index.html" width="1366" height="768" frameborder="0"></iframe>
+    </div>
+</div>
+
+<script>
+const container = document.getElementById('game-container');
+
+function resizeGame() {
+    const vw = window.innerWidth;
+    const vh = window.innerHeight;
+    const gameW = 1366;
+    const gameH = 768;
+
+    const scale = Math.min(vw / gameW, vh / gameH);
+
+    const offsetX = (vw - gameW * scale) / 2;
+    const offsetY = (vh - gameH * scale) / 2;
+
+    container.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
+}
+
+window.addEventListener('resize', resizeGame);
+resizeGame();
+</script>
+
+</body>
+</html>
